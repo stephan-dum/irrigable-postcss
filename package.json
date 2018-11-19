@@ -1,0 +1,19 @@
+{
+  "name": "irrigable-postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^7.0.5",
+    "postcss-import": "^12.0.0",
+    "postcss-url": "^8.0.0",
+    "precss": "^3.1.2",
+    "vinyl-sourcemaps-apply": "^0.2.1"
+  }
+}
